@@ -1,3 +1,7 @@
+1.0.2
+- linux 5.0.13.arch1-1
+- nvidia 418.74-1
+
 1.0.1
 - Linux Kernel 5.0.4
 
